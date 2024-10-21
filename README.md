@@ -1,7 +1,6 @@
-# tedge-container-plugin
+# ml-model-management-plugin
 
-thin-edge.io container plugin to install, start, stop and monitor containers on a device.
-Cumulocity UI Plugin to monitor running containers in the UI.
+Work in progress. Don't use it (yet) :)
 
 ## Plugin summary
 
